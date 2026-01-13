@@ -1,14 +1,6 @@
 import { type ChangeEvent,type FormEvent, useState } from "react"
 import axios from "axios"
 import { Button } from "./ui/button"
-import {
-  Card,
-  CardContent,
-  CardDescription,
-  CardFooter,
-  CardHeader,
-  CardTitle
-} from "./ui/card"
 import { Input } from "./ui/input"
 import { Label } from "./ui/label"
 
